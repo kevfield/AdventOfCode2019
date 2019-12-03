@@ -8,7 +8,6 @@
 
 for i in $(cat /tmp/fuelinput)
 do
-    echo $i
     divided=$(($i/3))
     subracted=$(($divided-2))
     echo $subracted >> /tmp/newfuelinput

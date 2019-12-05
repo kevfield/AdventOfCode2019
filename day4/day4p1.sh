@@ -13,7 +13,7 @@
 
 start=136760
 end=595730
-outfile=/tmp/outfilealternatetests
+outfile=/tmp/outfile
 
 #===========================================================================
 #
